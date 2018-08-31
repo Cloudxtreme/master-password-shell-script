@@ -1,6 +1,6 @@
 # master-password-shell-script
 
-**With this script you can generate strong password for your logins**
+**With this script you can generate strong passwords for your logins**
 
 ## Usage
 - To use this script you only need to write in your terminal `sh ./masterPassword.sh <USER>` and you will recive a series of steps to follow for generate your password.
